@@ -76,8 +76,11 @@ During lunch break, students of multiple grades go to the canteen to get food be
 
 Our proposed system would automate the process of ordering using digital kiosks. It would:
 -let the students order through a digital interface, speeding up the process and letting them view the menu easily,
+
 -compute the total cost of their order in real-time, letting the students view the price,
+
 -free up workers away from taking orders and let them work elsewhere, and
+
 -allow easier and faster payment through online means.
 
 
