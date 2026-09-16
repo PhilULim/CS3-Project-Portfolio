@@ -8,14 +8,14 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| **Proposed Project Title** | Canteen Ordering Overarching Kitchen Efficiency Design (COOKED)        |
+| **Team Members**           | 1. Josefa Crieza G. Navarro     |
+|                            | 2. Frio Kristoff P. Billianes     |
+|                            | 3. Phil Justin U. Lim     |
+|                            | 4. Vyn Mikaela O. Bumanlag     |
+|                            | 5. Richard James O. Mendoza     |
+|                            | 6. Arian Tinsley T. Gregorios     |
+| **PSHS-DRC Area/Location** | Canteen        |
 
 ---
 
@@ -40,7 +40,7 @@ To let the students order food and have their lunch.
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
 | 1. Students         | To order their food and pay for it.                              |
-| 2.          | To serve the food, receive payment, and track orders.                              |
+| 2. Workers         | To serve the food, receive payment, and track orders.                              |
 
 ### 4. What are the steps in the current process?
 
