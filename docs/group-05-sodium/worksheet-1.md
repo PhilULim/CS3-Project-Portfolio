@@ -23,7 +23,7 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+During lunch break, students of multiple grades go to the canteen to get food because they don't pack lunch or are dormers. They file in either of the two long lines and wait.
 
 <br>
 
@@ -44,13 +44,13 @@
 
 ### 4. What are the steps in the current process?
 
-| Step | What happens? | Person/Role Involved |
-| ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| Step |  What happens?                   | Person/Role Involved |
+| ---- |  ------------------------------- | -------------------- |
+| 1    | The student gets in line.        |      Student.        |
+| 2    | The student orders their food.   |    Student/Worker.   |
+| 3    | The food is prepared.            |       Worker.        |
+| 4    | The food is served.              |       Worker.        |
+| 5    | The student pays for their food. |    Student/Worker.   |
 
 ---
 
