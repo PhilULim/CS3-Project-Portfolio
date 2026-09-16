@@ -29,7 +29,7 @@ During lunch break, students of multiple grades go to the canteen to get food be
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+To let the students order food and have their lunch.
 
 <br>
 
@@ -39,8 +39,8 @@ During lunch break, students of multiple grades go to the canteen to get food be
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Students         | To order their food and pay for it.                              |
+| 2.          | To serve the food, receive payment, and track orders.                              |
 
 ### 4. What are the steps in the current process?
 
