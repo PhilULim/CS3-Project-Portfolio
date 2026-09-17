@@ -12,4 +12,4 @@
 
 ## Project Title
 
-_To be determined._
+Canteen Ordering Overarching Kitchen Efficiency Design (COOKED)
