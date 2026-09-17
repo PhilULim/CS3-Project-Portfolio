@@ -58,7 +58,7 @@ To let the students order food and have their lunch.
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> The queue in the canteen gets very long during lunch, as there are only two lines and ordering food is a time-consuming process.
 
 <br>
 
