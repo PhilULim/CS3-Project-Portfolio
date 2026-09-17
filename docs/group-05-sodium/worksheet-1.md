@@ -64,7 +64,7 @@ To let the students order food and have their lunch.
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> The segment of the process wherein the student orders their food could be automated, and the payment could be improved.
 
 <br>
 
